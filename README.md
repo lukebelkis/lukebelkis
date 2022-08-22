@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://file.coffee/u/W42i1t5e9ayj7r.png)
 
-<!--
-**lukebelkis/lukebelkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+Python, PHP, CSS, and HTML
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I have been developing for around three years. Self employed- usually take contract work & manage a team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📃 Past Projects
+Discord.dog - A Discord profile page.
+Vouch.dog - A Discord server review tracking & backup bot.
+JPay - Lightning fast lightweight cryptocurrency payment processing API.
+Whales.io - DeFi hedge fund news scraping & community management utility.
+Scythe.surf - A 50,000 user NameMC scraping bot.
+Bonfire.host - A high-limit privacy focused file/image hosting service.
+
+![](https://file.coffee/u/7DqSE_9_VjR6Kh.png)
