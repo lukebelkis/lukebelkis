@@ -1,7 +1,7 @@
 ![](https://file.coffee/u/W42i1t5e9ayj7r.png)
 
 ## 🛠 Skills
-Python, PHP, CSS, and HTML
+Python, PHP, NodeJS, CSS, and HTML
 
 ## 🚀 About Me
 I have been developing for around three years. Self employed- usually take contract work & manage a team.
